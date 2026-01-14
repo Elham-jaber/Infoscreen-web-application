@@ -1,0 +1,17 @@
+# OS
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# IDE / Editor
+.idea/
+.vscode/
+
+# Fichiers temporaires
+*.tmp
+*.swp
+
+# Fichiers de config sensibles (si ajout plus tard)
+.env
