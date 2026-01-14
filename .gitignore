@@ -9,9 +9,14 @@ Thumbs.db
 .idea/
 .vscode/
 
-# Fichiers temporaires
+# Fichiers sensibles
+.env
+config.php
+database.php
+
+# Cache / fichiers temporaires
 *.tmp
 *.swp
 
-# Fichiers de config sensibles (si ajout plus tard)
-.env
+# Sessions PHP (si stockées en fichiers)
+session/sess_*
